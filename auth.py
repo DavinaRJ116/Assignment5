@@ -1,2 +1,1 @@
-which contains all code
-all code of login,signup,dashboard branches
+which contains all code of frontend of this app
